@@ -1,0 +1,11 @@
+﻿<SolutionConfiguration>
+  <Settings>
+    <AllowParallelTestExecution>True</AllowParallelTestExecution>
+    <MetricsExclusionList>
+      <Value>Program.cs:LegacyTest\Legacy.csproj</Value>
+      <Value>LegacyTest\Legacy.csproj\Properties</Value>
+      <Value>Security\SecurityManager.cs:LegacyTest\Legacy.csproj</Value>
+    </MetricsExclusionList>
+    <SolutionConfigured>True</SolutionConfigured>
+  </Settings>
+</SolutionConfiguration>
